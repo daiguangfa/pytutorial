@@ -1,0 +1,26 @@
+.. quick python documentation master file, created by
+   sphinx-quickstart on Mon Jul 04 20:44:08 2016.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+通信系统仿真课程主页
+==================
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
+   how_to_study
+   ask_a_question
+   outlines
+   python_copy   
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
